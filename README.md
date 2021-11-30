@@ -11,7 +11,7 @@
 
 [<img align="left" alt="pingstech | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="pingstech | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="pingstech | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="pingstech | Instagram" width="22px" src="https://user-images.githubusercontent.com/62206442/144138291-d9394a89-d4ef-4735-aaed-54e2d3594730.png" />][instagram]
 
 <br />
 
