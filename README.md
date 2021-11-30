@@ -23,7 +23,7 @@
 <img align="left" alt="Cpp" width="26px" src="https://user-images.githubusercontent.com/62206442/144137890-f26e3ded-3c6d-46cb-8903-5b4f0ce23651.png" />
 <img align="left" alt="C" width="26px" src="https://user-images.githubusercontent.com/62206442/144134420-d63ca51a-42ac-41e6-9f4a-67974bc485f9.png" />
 <img align="left" alt="MATLAB" width="26px" src="https://user-images.githubusercontent.com/62206442/144137819-4ca90d65-342c-4034-8759-d786dfc4f181.png" />
-<img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/62206442/144134635-6ac9ae3f-7730-4467-806c-f131b5d3de9c.png" />
+<img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/62206442/144138021-760e34a1-1ad7-478b-99ca-1d6a6824d60d.png" />
 <img align="left" alt="OpenCV" width="26px" src="https://user-images.githubusercontent.com/62206442/144134752-d55809f1-dfce-4293-a7db-dd4085bb8728.png" />
 <img align="left" alt="Git" width="26px" src="https://user-images.githubusercontent.com/62206442/144137610-df54b9ce-9e24-4547-afc7-b56144ccd932.png" />
 
