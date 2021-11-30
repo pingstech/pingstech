@@ -3,7 +3,7 @@
 ## I'm Senior Engineering Student, Developer, and Maker!!
 
 
-- 🧭 I'm currently learning to control an autonomous underwater vehicle
+- 🧭 I'm currently learning to control an autonomous underwater vehicle and embedded software
 - 🥅 2022 Goals: Contribute more to Open Source projects and develop 2 major projects about embedded
 
 
