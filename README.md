@@ -1,6 +1,6 @@
 ### Hi there, I'm Furkan
 ---
-## I'm Senior Electronics and Communication Engineering Student, Developer, and Maker!!
+## I'm Senior Engineering Student, Developer, and Maker!!
 
 
 - 🧭 I'm currently learning to control an autonomous underwater vehicle
