@@ -20,7 +20,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Cpp" width="26px" src="https://user-images.githubusercontent.com/62206442/144134336-005f9b09-4a27-44d4-a9ea-2971f2385bfc.png" />
+<img align="left" alt="Cpp" width="26px" src="https://user-images.githubusercontent.com/62206442/144137890-f26e3ded-3c6d-46cb-8903-5b4f0ce23651.png" />
 <img align="left" alt="C" width="26px" src="https://user-images.githubusercontent.com/62206442/144134420-d63ca51a-42ac-41e6-9f4a-67974bc485f9.png" />
 <img align="left" alt="MATLAB" width="26px" src="https://user-images.githubusercontent.com/62206442/144137819-4ca90d65-342c-4034-8759-d786dfc4f181.png" />
 <img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/62206442/144134635-6ac9ae3f-7730-4467-806c-f131b5d3de9c.png" />
