@@ -3,7 +3,7 @@
 ## I'm Senior Engineering Student, Developer, and Maker!!
 
 
-- 🧭 I'm currently learning to control an autonomous underwater vehicle and embedded software
+- 🧭 I'm currently learning to control autonomous underwater vehicles and embedded software.
 - 🥅 2022 Goals: Contribute more to Open Source projects and develop 2 major projects about embedded
 
 
@@ -19,13 +19,13 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Cpp" width="26px" src="https://user-images.githubusercontent.com/62206442/144137890-f26e3ded-3c6d-46cb-8903-5b4f0ce23651.png" />
-<img align="left" alt="C" width="26px" src="https://user-images.githubusercontent.com/62206442/144138175-6da173eb-3850-4edd-920d-16bac9718b33.png" />
-<img align="left" alt="MATLAB" width="26px" src="https://user-images.githubusercontent.com/62206442/144137819-4ca90d65-342c-4034-8759-d786dfc4f181.png" />
-<img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/62206442/144138021-760e34a1-1ad7-478b-99ca-1d6a6824d60d.png" />
-<img align="left" alt="OpenCV" width="26px" src="https://user-images.githubusercontent.com/62206442/144134752-d55809f1-dfce-4293-a7db-dd4085bb8728.png" />
-<img align="left" alt="Git" width="26px" src="https://user-images.githubusercontent.com/62206442/144137610-df54b9ce-9e24-4547-afc7-b56144ccd932.png" />
+<img align="center" alt="Visual Studio Code" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="center" alt="Cpp" width="46px" src="https://user-images.githubusercontent.com/62206442/144137890-f26e3ded-3c6d-46cb-8903-5b4f0ce23651.png" />
+<img align="center" alt="C" width="46px" src="https://user-images.githubusercontent.com/62206442/144138175-6da173eb-3850-4edd-920d-16bac9718b33.png" />
+<img align="center" alt="MATLAB" width="46px" src="https://user-images.githubusercontent.com/62206442/144137819-4ca90d65-342c-4034-8759-d786dfc4f181.png" />
+<img align="center" alt="Python" width="46px" src="https://user-images.githubusercontent.com/62206442/144138021-760e34a1-1ad7-478b-99ca-1d6a6824d60d.png" />
+<img align="center" alt="OpenCV" width="46px" src="https://user-images.githubusercontent.com/62206442/144134752-d55809f1-dfce-4293-a7db-dd4085bb8728.png" />
+<img align="center" alt="Git" width="46px" src="https://user-images.githubusercontent.com/62206442/144137610-df54b9ce-9e24-4547-afc7-b56144ccd932.png" />
 
 <br />
 <br />
