@@ -27,8 +27,6 @@
 <img align="left" alt="OpenCV" width="46px" src="https://user-images.githubusercontent.com/62206442/144134752-d55809f1-dfce-4293-a7db-dd4085bb8728.png" />
 <img align="left" alt="Git" width="46px" src="https://user-images.githubusercontent.com/62206442/144137610-df54b9ce-9e24-4547-afc7-b56144ccd932.png" />
 
-<br />
-
 ---
 
 <br />
