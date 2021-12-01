@@ -5,7 +5,6 @@
 
 - 🧭 I'm currently learning to control autonomous underwater vehicles and embedded software.
 - 🥅 2022 Goals: Contribute more to Open Source projects and develop 2 major projects about embedded
-<br />
 
 ---
 
