@@ -45,7 +45,7 @@
 
 <br />
 
-[![Furkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pingstech&show_icons=true&theme=aura_dark)](https://github.com/pingstech/github-readme-stats)
+[![Furkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pingstech&show_icons=true&theme=tokyonight)](https://github.com/pingstech/github-readme-stats)
 
 [twitter]: https://twitter.com/PingmanTheBear
 [instagram]: https://instagram.com/mryayla
