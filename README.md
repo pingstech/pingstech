@@ -5,11 +5,6 @@
 - 🧭 I'm currently learning to control autonomous underwater vehicles and embedded software.
 - 🥅 2022 Goals: Contribute more to Open Source projects and develop 2 major projects about embedded
 
----
-
-[![Furkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pingstech&show_icons=true&theme=gotham)](https://github.com/pingstech/github-readme-stats)
-
----
 
 ### Connect with me:
 
@@ -74,6 +69,8 @@
     </td>
   </tr>
 </table>
+
+[![Furkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pingstech&show_icons=true&theme=gotham)](https://github.com/pingstech/github-readme-stats)
 
 [twitter]: https://twitter.com/PingmanTheBear
 [instagram]: https://instagram.com/mryayla
