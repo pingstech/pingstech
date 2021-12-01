@@ -8,6 +8,10 @@
 
 ---
 
+[![Furkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pingstech&show_icons=true&theme=gotham)](https://github.com/pingstech/github-readme-stats)
+
+---
+
 ### Connect with me:
 
 [<img align="left" alt="pingstech | Twitter" width="32px" src="https://user-images.githubusercontent.com/62206442/144138529-f99ba513-c423-46a6-a770-8baa9dc29b3a.png" />][twitter]
@@ -77,8 +81,6 @@
 #
 
 <br />
-
-[![Furkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pingstech&show_icons=true&theme=gotham)](https://github.com/pingstech/github-readme-stats)
 
 
 [twitter]: https://twitter.com/PingmanTheBear
