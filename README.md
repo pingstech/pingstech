@@ -76,13 +76,6 @@
   </tr>
 </table>
 
-<br />
-
-#
-
-<br />
-
-
 [twitter]: https://twitter.com/PingmanTheBear
 [instagram]: https://instagram.com/mryayla
 [linkedin]: https://linkedin.com/in/yaylafurkan
