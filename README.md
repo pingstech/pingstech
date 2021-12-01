@@ -71,6 +71,7 @@
 </table>
 <br />
 
+&nbsp;
 #
 
 [![Furkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pingstech&show_icons=true&theme=gotham)](https://github.com/pingstech/github-readme-stats)
