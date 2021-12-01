@@ -18,7 +18,7 @@
 
 #
 
-### Languages and Tools:
+## Languages and Tools 🧰
 
 <img align="left" alt="Cpp" width="36px" src="https://user-images.githubusercontent.com/62206442/144137890-f26e3ded-3c6d-46cb-8903-5b4f0ce23651.png" />
 <img align="left" alt="C" width="36px" src="https://user-images.githubusercontent.com/62206442/144138175-6da173eb-3850-4edd-920d-16bac9718b33.png" />
