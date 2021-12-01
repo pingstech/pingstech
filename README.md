@@ -4,8 +4,8 @@
 ### I'm Senior Engineering Student, Developer, and Maker!!!
 
 - 🧭 I'm currently learning to control autonomous underwater vehicles and embedded software.
-- 🥅 2022 Goals: Contribute more to Open Source projects and develop 2 major projects about embedded
-- ⚡ Fun fact: I love to play video games 
+- 🥅 2022 Goals: Contribute more to Open Source projects and develop 2 major projects about embedded.
+- ⚡ Fun fact: I love to watch Formula 1 and play basketball. 
 
 ---
 
