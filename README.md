@@ -25,7 +25,7 @@
 <img align="left" alt="MATLAB" width="46px" src="https://user-images.githubusercontent.com/62206442/144137819-4ca90d65-342c-4034-8759-d786dfc4f181.png" />
 <img align="left" alt="Python" width="46px" src="https://user-images.githubusercontent.com/62206442/144138021-760e34a1-1ad7-478b-99ca-1d6a6824d60d.png" />
 <img align="left" alt="OpenCV" width="46px" src="https://user-images.githubusercontent.com/62206442/144134752-d55809f1-dfce-4293-a7db-dd4085bb8728.png" />
-<img align="left" alt="Git" width="46px" src="https://user-images.githubusercontent.com/62206442/144137610-df54b9ce-9e24-4547-afc7-b56144ccd932.png" />
+<img align="left" alt="Git" width="46px" src="https://user-images.githubusercontent.com/62206442/144137610-df54b9ce-9e24-4547-afc7-b56144ccd932.png" />.
 
 <br />
 
