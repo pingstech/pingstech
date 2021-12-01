@@ -25,49 +25,49 @@
       <a href="#macropower-tech">
         <img src="https://user-images.githubusercontent.com/62206442/144137890-f26e3ded-3c6d-46cb-8903-5b4f0ce23651.png" width="48" height="48" alt="Cpp" />
       </a>
-      <br>C#&nbsp;
+      <br>C++&nbsp;
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="ttps://user-images.githubusercontent.com/62206442/144138175-6da173eb-3850-4edd-920d-16bac9718b33.png" width="48" height="48" alt="C" />
       </a>
-      <br>Python
+      <br>C
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://user-images.githubusercontent.com/62206442/144138021-760e34a1-1ad7-478b-99ca-1d6a6824d60d.png" width="48" height="48" alt="Python" />
       </a>
-      <br>java
+      <br>Python
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://user-images.githubusercontent.com/62206442/144137819-4ca90d65-342c-4034-8759-d786dfc4f181.png" width="48" height="48" alt="MATLAB" />
       </a>
-      <br>C
+      <br>MATLAB
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://user-images.githubusercontent.com/62206442/144134752-d55809f1-dfce-4293-a7db-dd4085bb8728.png" width="48" height="48" alt="Opencv" />
       </a>
-      <br>Unity
+      <br>OpenCV
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="48" height="48" alt="Visual Studio Code" />
       </a>
-      <br>Android
+      <br>VS Code
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
         <img src="https://user-images.githubusercontent.com/62206442/144233058-2eae5e15-0351-47cf-b51a-2d74db52d1c3.png" width="48" height="48" alt="PyCharm" />
       </a>
-      <br>Visual Studio
+      <br>PyCharm
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
         <img src="https://user-images.githubusercontent.com/62206442/144137610-df54b9ce-9e24-4547-afc7-b56144ccd932.png" width="48" height="48" alt="Git" />
       </a>
-      <br>Photoshop
+      <br>Git
     </td>
   </tr>
 </table>
