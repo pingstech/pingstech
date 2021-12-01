@@ -29,7 +29,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="ttps://user-images.githubusercontent.com/62206442/144138175-6da173eb-3850-4edd-920d-16bac9718b33.png" width="48" height="48" alt="C" />
+        <img src="https://github.com/TahaMetin/TahaMetin/blob/main/pictures/c-original.svg" width="48" height="48" alt="C" />
       </a>
       <br>C
     </td>
