@@ -9,7 +9,7 @@
 
 ---
 
-### Connect with me 🔎
+### Social Media 🔎
 
 
 [<img align="left" alt="pingstech | LinkedIn" width="32px" src="https://user-images.githubusercontent.com/62206442/144138463-6e1a1009-3562-489a-8735-fa0b42056ffe.png" />][linkedin]
