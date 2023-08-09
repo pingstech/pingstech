@@ -3,8 +3,8 @@
 
 ### I'm Senior Engineering Student, Developer, and Maker!!!
 
-- 🧭 I'm currently learning to control autonomous underwater vehicles and embedded software.
-- ⛰️ 2023 Goals: Contribute more to Open Source projects and develop 2 major projects about embedded.
+- 🧭 I'm currently working on IoT project.
+- ⛰️ 2023 Goals: Getting better at embedded software and successfully exporting a project to GitHub
 - 💖 Fun fact: I love to watch Formula 1 and play basketball. 
 
 ---
