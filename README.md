@@ -12,9 +12,10 @@
 ### Social Media 🔎
 
 
-[<img align="left" alt="pingstech | LinkedIn" width="32px" src="https://user-images.githubusercontent.com/62206442/144138463-6e1a1009-3562-489a-8735-fa0b42056ffe.png" />][linkedin]
-[<img align="left" alt="pingstech | Twitter" width="32px" src="https://user-images.githubusercontent.com/62206442/144138529-f99ba513-c423-46a6-a770-8baa9dc29b3a.png" />][twitter]
-[<img align="left" alt="pingstech | Instagram" width="32px" src="https://user-images.githubusercontent.com/62206442/144138427-d2bbddb4-2ccf-457a-833b-5c31404fece8.png" />][instagram]
+[<img align="left" alt="pingstech | LinkedIn" width="32px" src="https://user-images.githubusercontent.com/62206442/144138463-6e1a1009-3562-489a-8735-fa0b42056ffe.png" />][Linkedin]
+[<img align="left" alt="pingstech | Twitter" width="32px" src="https://user-images.githubusercontent.com/62206442/144138529-f99ba513-c423-46a6-a770-8baa9dc29b3a.png" />][Twitter]
+[<img align="left" alt="pingstech | Instagram" width="32px" src="https://user-images.githubusercontent.com/62206442/144138427-d2bbddb4-2ccf-457a-833b-5c31404fece8.png" />][Instagram]
+[<img align="left" alt="pingstech | Medium" width="32px" src="https://github.com/pingstech/pingstech/assets/62206442/a84716b6-1588-4106-b511-6b2f141696d2.png" />][Medium]
 
 
 
@@ -50,3 +51,5 @@
 [twitter]: https://twitter.com/PingmanTheBear
 [instagram]: https://instagram.com/mryayla
 [linkedin]: https://linkedin.com/in/yaylafurkan
+[medium]: https://pingstech.medium.com/
+
