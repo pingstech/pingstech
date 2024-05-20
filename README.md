@@ -1,4 +1,4 @@
-# Hey I'm Furkan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
+# Hey I'm Furkan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23px">
 
 
 #### I'm Jr. Embedded Software Engineer, Developer, and Maker.
