@@ -33,7 +33,7 @@
 
 [![Furkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pingstech&show_icons=true&theme=tokyonight)](https://github.com/pingstech/github-readme-stats)
 
-[twitter]: https://twitter.com/PingmanTheBear
+[twitter]: https://x.com/obiwanHALobi
 [linkedin]: https://linkedin.com/in/yaylafurkan
 [medium]: https://pingstech.medium.com/
 
